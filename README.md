@@ -1,2 +1,2 @@
 # Putamen_Neuron_snRNAseq
-Comparative Analysis of Striatal Neuronal Populations in Human, Primate, and Rodent Brains: Implications for Translational Neuroscience
+Comparative Transcriptomic Analysis of Striatal Neuronal Populations in Human, Macaque, and Mouse Brains: Implications for Translational Neuroscience
